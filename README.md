@@ -29,8 +29,7 @@ I'm a Computer Science student from Hyderabad who loves turning ideas into worki
 - 🐍 Python is my main language, and I use it for AI/ML and automation projects
 - 🤖 I build AI projects, from medical image detection to financial advisory and research agents
 - 🌐 I build web apps with HTML, CSS and JavaScript
-- 🌱 Currently learning: **[add what you're learning, e.g. Deep Learning / React / SQL]**
-- 🎯 Looking for: **[internships / collaborations / open-source projects]**
+- 🎯 Looking for: **[internships / collaborations / full-time opportunity]**
 
 ---
 
@@ -38,8 +37,8 @@ I'm a Computer Science student from Hyderabad who loves turning ideas into worki
 
 | | |
 |---|---|
-| 🏫 **[Your College / University Name]** | Bachelor of Technology in Computer Science **[edit degree/branch]** |
-| 📅 **[Start Year] – [End Year]** | CGPA: **[x.xx]** *(optional)* |
+| 🏫 **[Malla Reddy College of Engineering and Technology ]** | Bachelor of Technology in Computer Science and Engineering  |
+| 📅 **[2022] – [2026]** | CGPA: **[7.87]**  |
 | 📚 **Focus areas** | Software Development • AI/ML • Databases |
 
 <!-- Add school / intermediate details here if you like -->
@@ -128,8 +127,8 @@ An e-commerce application for grocery shopping.
 
 ## 🎯 Currently & Next
 
-- 🔨 **Working on:** **[your current project]**
-- 📖 **Learning:** **[topic or course]**
+- 🔨 **Working on:** **[Artificial Intelligence]**
+- 📖 **Learning:** **[deep learning]**
 - 🏁 **Goal:** Ship more AI and full-stack projects, and contribute to open source
 
 ---
