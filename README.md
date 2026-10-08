@@ -37,8 +37,8 @@ I'm a Computer Science student from Hyderabad who loves turning ideas into worki
 
 | | |
 |---|---|
-| 🏫 **Malla Reddy College of Engineering and Technology ** | Bachelor of Technology in Computer Science and Engineering  |
-| 📅 **[2022] – [2026]** | CGPA: **[7.87]**  |
+| 🏫 Malla Reddy College of Engineering and Technology  | Bachelor of Technology in Computer Science and Engineering  |
+| 📅 2022 – 2026 | CGPA: 7.87  |
 | 📚 **Focus areas** | Software Development • AI/ML • Databases |
 
 <!-- Add school / intermediate details here if you like -->
