@@ -29,7 +29,7 @@ I'm a Computer Science student from Hyderabad who loves turning ideas into worki
 - 🐍 Python is my main language, and I use it for AI/ML and automation projects
 - 🤖 I build AI projects, from medical image detection to financial advisory and research agents
 - 🌐 I build web apps with HTML, CSS and JavaScript
-- 🎯 Looking for: **[internships / collaborations / full-time opportunity]**
+- 🎯 Looking for: **internships / collaborations / full-time opportunity**
 
 ---
 
@@ -37,7 +37,7 @@ I'm a Computer Science student from Hyderabad who loves turning ideas into worki
 
 | | |
 |---|---|
-| 🏫 **[Malla Reddy College of Engineering and Technology ]** | Bachelor of Technology in Computer Science and Engineering  |
+| 🏫 **Malla Reddy College of Engineering and Technology ** | Bachelor of Technology in Computer Science and Engineering  |
 | 📅 **[2022] – [2026]** | CGPA: **[7.87]**  |
 | 📚 **Focus areas** | Software Development • AI/ML • Databases |
 
